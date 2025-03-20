@@ -7,6 +7,7 @@
 ![gopath](doc/images/gopath.png)
 
 2.当前 GOPATH 安装的 go 版本
+
 ![gosdk](doc/images/gosdk.png)
 
 3,下载 switchgo 将它放在 GOPATH 的 bin 目录下，并且需要在 PATH 配置下，使其 bin 目录下的可执行文件，可以全局执行
